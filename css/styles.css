@@ -605,7 +605,6 @@ img {
 
 .subscribe-form {
     display: flex;
-    gap: 24px;
 }
 
 .subscribe-box {
@@ -637,6 +636,7 @@ img {
 .button-subscribe {
     display: flex;
     padding: 8px 24px;
+    margin-left: 24px;
     justify-content: center;
     align-items: center;
     gap: 16px;
